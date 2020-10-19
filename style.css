@@ -1,0 +1,21 @@
+.banner_image {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #05a8c5;
+  background-image: url("./image/image.jpg");
+  background-size: cover;
+  height: 600px;
+}
+#content {
+  background-color: rgba(19, 19, 19, 0.644);
+  max-width: 450px;
+  padding: 70px 20px 20px;
+  margin-top: 150px;
+}
+footer {
+  padding: 10px 0;
+  background-color: #101010;
+  color: #9d9d9d;
+  padding: 10px 0;
+}
